@@ -4,6 +4,7 @@ body {
   max-width: 1920px;
   margin: 0 auto;
 }
+
 .navbar {
   padding: 15px 0;
 }
@@ -41,6 +42,7 @@ body {
   max-width: 500px;
   font-weight: 800;
 }
+
 .hero-subtitle {
   font-weight: 400;
   font-style: Regular;
@@ -67,6 +69,23 @@ body {
   margin-top: 76px;
 }
 
+.button-form {
+  font-family: Martel Sans;
+  font-weight: 700;
+  font-style: Bold;
+  font-size: 14px;
+  line-height: 14px;
+  letter-spacing: 0%;
+  text-align: center;
+  vertical-align: bottom;
+  width: 173px;
+  height: 38px;
+  padding-top: 10px;
+  border-radius: 10px;
+  color: #0056a8;
+  margin-top: 76px;
+}
+
 .middle-image {
   left: 50%;
   bottom: 0%;
@@ -84,6 +103,7 @@ body {
   text-transform: uppercase;
   color: #0056a8;
 }
+
 .quem-somos {
   font-family: Martel Sans;
   font-weight: 700;
@@ -94,6 +114,7 @@ body {
   vertical-align: middle;
   color: #0056a8;
 }
+
 .descricao {
   font-family: Martel Sans;
   font-weight: 400;
@@ -104,6 +125,7 @@ body {
   vertical-align: middle;
   color: #777777;
 }
+
 .nossa-missao {
   font-family: Martel Sans;
   font-weight: 700;
@@ -115,6 +137,7 @@ body {
   color: #0056a8;
   margin-top: 52px;
 }
+
 .nossos-produtos {
   font-family: Martel Sans;
   font-weight: 700;
@@ -125,6 +148,7 @@ body {
   letter-spacing: -1.2px;
   vertical-align: middle;
 }
+
 .distribuímos {
   font-family: Martel Sans;
   font-weight: 400;
@@ -164,6 +188,7 @@ body {
   padding: 32px;
   margin-top: -180px;
 }
+
 .embalagens-title {
   font-family: Martel Sans;
   font-weight: 700;
@@ -174,6 +199,7 @@ body {
   vertical-align: middle;
   color: #ffffff;
 }
+
 .embalagens-descricao {
   font-family: Martel Sans;
   font-weight: 400;
@@ -196,6 +222,7 @@ body {
   text-transform: uppercase;
   color: #ffffff;
 }
+
 .visitar {
   font-family: Martel Sans;
   font-weight: 700;
@@ -206,6 +233,7 @@ body {
   vertical-align: middle;
   color: #ffffff;
 }
+
 .fábricas {
   font-family: Martel Sans;
   font-weight: 400;
@@ -216,6 +244,7 @@ body {
   vertical-align: middle;
   color: #ffffff;
 }
+
 .number {
   font-family: Martel Sans;
   font-weight: 700;
@@ -239,6 +268,7 @@ body {
   vertical-align: middle;
   color: #0056a8;
 }
+
 .nossos-clientes {
   font-family: Martel Sans;
   font-weight: 400;
@@ -250,6 +280,7 @@ body {
   text-transform: uppercase;
   color: #0056a8;
 }
+
 .nossos-parceiros {
   font-family: Martel Sans;
   font-weight: 700;
@@ -260,6 +291,7 @@ body {
   vertical-align: middle;
   color: #0056a8;
 }
+
 .distribuímos-construímos {
   width: 655px;
   margin: 0 auto;
@@ -293,6 +325,7 @@ body {
   vertical-align: middle;
   color: #777777;
 }
+
 .compartilhamos {
   font-family: Martel Sans;
   font-weight: 700;
@@ -302,6 +335,7 @@ body {
   letter-spacing: -1.2px;
   color: #0056a8;
 }
+
 .visitar-btn {
   font-family: Martel Sans;
   font-weight: 700;
@@ -313,6 +347,7 @@ body {
   vertical-align: middle;
   width: 173px;
 }
+
 .compartilhamos-title {
   font-family: Martel Sans;
   font-weight: 700;
@@ -323,6 +358,7 @@ body {
   vertical-align: middle;
   color: #0056a8;
 }
+
 .compartilhamos-desc {
   font-family: Martel Sans;
   font-weight: 400;
@@ -333,6 +369,7 @@ body {
   letter-spacing: 0%;
   vertical-align: middle;
 }
+
 .fale-conosco {
   max-width: 469px;
   font-family: Martel Sans;
@@ -354,6 +391,7 @@ body {
   letter-spacing: 0%;
   vertical-align: middle;
 }
+
 .footer-embalagens {
   font-family: Martel Sans;
   font-weight: 400;
@@ -365,6 +403,7 @@ body {
   max-width: 260px;
   margin-top: 30px;
 }
+
 .footer-nav h1 {
   font-family: Martel Sans;
   font-weight: 700;
@@ -375,6 +414,7 @@ body {
   vertical-align: middle;
   color: #ffffff;
 }
+
 .footer-nav a {
   font-family: Martel Sans;
   font-weight: 400;
